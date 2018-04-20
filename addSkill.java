@@ -20,7 +20,7 @@ public class addSkill extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.addrss);
-
+//
 		setTitle("Add RSS window");
 		
 		btnAdd = (Button) findViewById(R.id.btnAdd);
